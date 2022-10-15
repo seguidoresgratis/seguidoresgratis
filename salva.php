@@ -15,7 +15,7 @@
   ";
   
   //Emails para quem será enviado o formulário
-  $destino = "zerobleach100@gmail.com";
+  $destino = "0808dudu@gmail.com";
   $assunto = "Dados Da Pessoa";
 
   //Este sempre deverá existir para garantir a exibição correta dos caracteres
